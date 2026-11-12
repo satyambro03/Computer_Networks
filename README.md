@@ -6,8 +6,8 @@ An in-kernel eBPF/XDP edge packet filter and control daemon built for the Low-Le
 ![Bouncer 2.0 Live Dashboard](dashboard.png)
 
 ## Demo Video
-- **YouTube Demo:** [Watch Project Walkthrough](https://youtu.be/MDuNkAWl4wI)
-
+-## 🎥 Demo Videos
+- [Demo Video ](https://youtu.be/MDuNkAWl4wI?si=X7Lm8cuzbs7ksR0J)  
 *(Direct File Link: [Watch video.mp4](video.mp4))*
 
 ## System & Environment Versions
