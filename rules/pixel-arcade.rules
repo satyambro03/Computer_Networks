@@ -1,0 +1,4 @@
+default pass
+limit 2/s burst 2 proto icmp
+drop proto udp dport 6000-6099
+bounce proto udp dport 6666
